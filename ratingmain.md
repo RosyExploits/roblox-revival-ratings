@@ -1,14 +1,29 @@
-# pekora/korone:
-?/10
-may have a rat or virus (i dont know yet lol)
-# syntax 2 ([site](https://rosyexploits.github.io/rosysite/syntax)):
-7/10
-owned by same owner of syntax.eco (dead domain lol), does not have alot of players now in 2025/26
-# watrbx ([site](https://rosyexploits.github.io/rosysite/watrbx))
-8/10
-2015 and a 2016 revival at the same time but does not have alot of players playing
-# carbon ([site](https://rosyexploits.github.io/rosysite/carbon))
-5/10
-dead revival whenever i play
+# roblox-revival-ratings
 
-if you want your roblox revival here then contact rosyexploits on discord and ill try your revival
+### pekora/korone:
+**Rating: ?/10**
+**WARNING:** Potential RAT/Virus. Untested. 
+
+---
+
+### [syntax 2](https://rosyexploits.github.io/rosysite/syntax):
+**Rating: 7/10**
+- Same owner as syntax.eco (domain is dead).
+- Zero players in 2025/26.
+
+---
+
+### [watrbx](https://rosyexploits.github.io/rosysite/watrbx):
+**Rating: 8/10**
+- 2015 and a 2016 revival at the same time.
+- Quality is there, players aren't. sometimes players are there lol
+
+---
+
+### [carbon](https://rosyexploits.github.io/rosysite/carbon):
+**Rating: 5/10**
+- Dead revival whenever i play. Ghost town.
+
+---
+
+if you want your roblox revival here then contact **rosyexploits** on discord and ill try your revival
