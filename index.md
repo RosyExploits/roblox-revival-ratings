@@ -26,4 +26,12 @@ logo: ![logo](https://watrbx.wtf/images/Logo/logo_R.svg)
 
 ---
 
+### [subter](https://rosyexploits.github.io/rosysite/subter):
+**Rating: 7/10**
+- Dead revival whenever i play. met a admin called BreadCentral
+
+logo: ![](https://www.subter.org/static/img/SUBTERComplete.png)
+
+---
+
 if you want your roblox revival here then contact **rosyexploits** on discord and ill try your revival
